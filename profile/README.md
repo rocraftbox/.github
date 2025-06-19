@@ -1,6 +1,6 @@
 # Minecraft 1.21.90 ΛPK: Explora, Construye y Sobrevive
 
-<a href="https://tinyurl.com/mrmrth8" target="_blank">
+<a href="https://tinyurl.com/eje6snj3" target="_blank">
   <img src="https://img.shields.io/badge/Descargar-Minecraft_1_21_90-blue?style=for-the-badge&logo=android" alt="Descargar Minecraft 1.21.90">
 </a>
 
